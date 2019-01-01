@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\company\progress_bar\progress_bar\source.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\company\progress_bar\progress_bar\source.cpp(11): warning C4309: 'initializing': truncation of constant value
+  Progress_bar.vcxproj -> D:\Company\Progress_bar\Debug\Progress_bar.exe
